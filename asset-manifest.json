@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1af227ae.css",
+    "main.js": "/static/js/main.3a0af9e3.js",
+    "static/media/bnr-shadow.png": "/static/media/bnr-shadow.a34cbb8c7c930bd2b172.png",
+    "static/media/NeueMontreal-Medium.woff": "/static/media/NeueMontreal-Medium.ea4aeecd3ee2b2eeeccf.woff",
+    "static/media/NeueMontreal-Light.woff": "/static/media/NeueMontreal-Light.4665ebdb534d046965d8.woff",
+    "static/media/NeueMontreal-Regular.woff": "/static/media/NeueMontreal-Regular.7e8c30ce0dc17187266a.woff",
+    "static/media/NeueMontreal-Bold.woff": "/static/media/NeueMontreal-Bold.1b07882406dcd083b698.woff",
+    "static/media/TungstenNarrow-Semibold.woff": "/static/media/TungstenNarrow-Semibold.19677cc8a18316c2f5ed.woff",
+    "static/media/TungstenNarrow-Bold.woff": "/static/media/TungstenNarrow-Bold.aec577a009b0d422ca1a.woff",
+    "static/media/TungstenNarrow-Medium.woff": "/static/media/TungstenNarrow-Medium.535102e99053f3dc01b4.woff",
+    "static/media/NeueMontreal-Medium.woff2": "/static/media/NeueMontreal-Medium.6abeba002a95933ffa8a.woff2",
+    "static/media/NeueMontreal-Light.woff2": "/static/media/NeueMontreal-Light.76d820c0743110065cf4.woff2",
+    "static/media/NeueMontreal-Regular.woff2": "/static/media/NeueMontreal-Regular.bee69553301dd0dd09c6.woff2",
+    "static/media/NeueMontreal-Bold.woff2": "/static/media/NeueMontreal-Bold.67b5cf0f53da2b2907e6.woff2",
+    "static/media/Tungsten-Bold.woff": "/static/media/Tungsten-Bold.3f23757bacf035a0605f.woff",
+    "static/media/TungstenNarrow-Semibold.woff2": "/static/media/TungstenNarrow-Semibold.cdba34ab913f731db7b6.woff2",
+    "static/media/TungstenNarrow-Bold.woff2": "/static/media/TungstenNarrow-Bold.a8341462b58b1718242c.woff2",
+    "static/media/TungstenNarrow-Medium.woff2": "/static/media/TungstenNarrow-Medium.c0dfc455a384d776ba0a.woff2",
+    "static/media/Tungsten-Bold.woff2": "/static/media/Tungsten-Bold.9c6277c7428b3df0ee37.woff2",
+    "static/media/x-icon-hover.svg": "/static/media/x-icon-hover.3df7b165080e5478a100.svg",
+    "static/media/x-icon.svg": "/static/media/x-icon.c63d97138282e126b964.svg",
+    "index.html": "/index.html",
+    "main.1af227ae.css.map": "/static/css/main.1af227ae.css.map",
+    "main.3a0af9e3.js.map": "/static/js/main.3a0af9e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af227ae.css",
+    "static/js/main.3a0af9e3.js"
+  ]
+}
